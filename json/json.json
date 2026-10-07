@@ -1,0 +1,14 @@
+{
+  "filme_favorito": {
+    "titulo": "Enrolados",
+    "ano": 2010,
+    "diretor": "Nathan Greno e Byron Howard",
+    "generos": ["Animação", "Aventura", "Comédia", "Família"],
+    "Indicado_para_menores_de_idade": true,
+    "nota":7.7,
+    "espectadora": {
+        "nome": "Sofia", "Gosta do filme?": "Muito"},
+        "Quando será o segundo filme": null
+  }
+}
+

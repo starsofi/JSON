@@ -1,0 +1,13 @@
+ {"produto": {
+    "nome": "Jaqueta adidas",
+    "preco": 199.99,
+    "quantidade": 10,
+    "disponivel": true,
+    "tipos":["Originals", "Sport"],
+    "Melhor marca":{"Marca":"Adidas"},
+    "Data_fechamento": null
+  }
+}
+
+
+
